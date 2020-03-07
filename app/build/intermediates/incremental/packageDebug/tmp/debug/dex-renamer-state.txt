@@ -1,4 +1,4 @@
-#Wed Mar 04 14:22:31 MST 2020
+#Fri Mar 06 17:50:49 MST 2020
 base.0=/Users/admin/Desktop/Mobile Technologies/Project Assignments/Fragments/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
